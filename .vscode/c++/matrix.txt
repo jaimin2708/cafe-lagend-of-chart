@@ -1,0 +1,4 @@
+resultant matrix is a1 + b1
+5 5 5 
+5 5 5 
+5 5 5 
